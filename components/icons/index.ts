@@ -1,0 +1,12 @@
+export { default as Burger } from './Burger';
+export { default as CloseIcon } from './CloseIcon';
+export { default as Facebook } from './Facebook';
+export { default as Instagram } from './Instagram';
+export { default as LinkedIn } from './LinkedIn';
+export { default as Vimeo } from './Vimeo';
+export { default as Dribble } from './Dribble';
+export { default as Behance } from './Behance';
+export { default as ArrowRight } from './ArrowRight';
+export { default as ArrowLeft } from './ArrowLeft';
+export { default as ArrowRightFilled } from './ArrowRightFilled';
+export { default as ArrowLeftFilled } from './ArrowLeftFilled';
